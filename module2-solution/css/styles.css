@@ -17,6 +17,10 @@ body{
 	width: 100%;
 }
 
+p{
+	padding: 10px;
+}
+
 #chicken > div,#beef > div,#sushi > div{
 	background-color: gray;
 	border: 2px solid black;
