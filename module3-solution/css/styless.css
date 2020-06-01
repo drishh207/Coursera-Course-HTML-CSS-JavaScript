@@ -1,0 +1,107 @@
+*{
+	box-sizing: border-box;
+	/*margin:0;
+	padding:0;*/
+}
+body{
+	background-color: #000080 ;
+	font-size: 16px;
+	color: black;
+	font-family: 'Caladea', serif;
+}
+
+/*header colour*/
+#header-nav{
+	background-color: #696969;
+	font-family: 'Caladea', serif;
+	font-family: 'Libre Baskerville', serif;
+}
+
+/*Food,LLC start*/
+.navbar-brand h1{
+	font-size: 2.5em;
+	padding-top: 25px;
+	color: black;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #A9A9A9;
+	margin-top: 0;
+	margin-bottom: 0;	
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+/*Food,LLC end*/
+
+/*nav list start*/
+#nav-list a{
+	font-size: 1.25em;
+	color: black;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #A9A9A9;
+}
+/*nav list end*/
+
+/*collapsable-nav button start*/
+.button.navbar-toggler, .navbar-toggler-icon {
+  border: 1px solid black;
+}
+button.navbar-toggler {
+  clear: both;
+  margin-top: 30px;
+}
+/*collapsable-nav button start*/
+
+/*main-content start*/
+.main-content > h1{
+	text-align: center;
+	font-weight: bold;
+	margin: 20px;
+	margin-bottom: 20px;
+	height:auto;
+	width:auto;
+	border:5px;
+}
+
+
+#content1 h3,#content2 h3, #content3 h3{
+	text-align: center;
+	margin-top: : 10px;
+	font-weight: bold;
+	background-color: #388E8E;
+
+}
+
+#content1 > div, #content2 > div, #content3 > div{
+	text-align: center;
+	padding: 10px;
+	margin-top: 0;
+	margin: 20px;
+	background-color: #388E8E;
+	border: 2px solid black;
+}
+
+#content1  a, #content2  a, #content3  a{
+	color: #000080 ;
+}
+
+/*main-content end*/
+
+@media (max-width: 479px) {
+  /*Food,LLC start*/
+  .navbar-brand h1 {
+    padding-top: 5px;
+    font-size: 6vw;
+  }
+  /* Food,LLc end*/
+
+  #nav-list a{
+  	font-size: 4vw;
+  }
+
+  #content1 > div, #content2 > div, #content3 > div{
+	margin: 20px;
+  }
+}
