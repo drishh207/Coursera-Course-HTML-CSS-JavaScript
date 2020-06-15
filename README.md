@@ -7,7 +7,7 @@
  Module 5 link: <a href ="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md"> Module 5 problem statement </a><br />
  
  Solutions: <br />
- Module 2: <a href ="https://drishh207.github.io/coursera-course-HTML/module2-solution/">Module 2 solution </a><br />
- Module 3: <a href ="https://drishh207.github.io/coursera-course-HTML/module3-solution/">Module 3 solution </a><br />
- Module 4: <a href ="https://drishh207.github.io/coursera-course-HTML/module4-solution/">Module 4 solution(view in console) </a> <br />
- Module 5: <a href ="https://drishh207.github.io/coursera-course-HTML/module5-solution/">Module 5 solution(click on specials tile)</a><br />
+ Module 2: <a href ="https://drishh207.github.io/Coursera-Course-HTML-CSS-JavaScript/module2-solution/">Module 2 solution </a><br />
+ Module 3: <a href ="https://drishh207.github.io/Coursera-Course-HTML-CSS-JavaScript/module3-solution/">Module 3 solution </a><br />
+ Module 4: <a href ="https://drishh207.github.io/Coursera-Course-HTML-CSS-JavaScript/module4-solution/">Module 4 solution(view in console) </a> <br />
+ Module 5: <a href ="https://drishh207.github.io/Coursera-Course-HTML-CSS-JavaScript/module5-solution/">Module 5 solution(click on specials tile)</a><br />
